@@ -61,7 +61,7 @@ console.log(hobbies);
 
 const newHobbies=hobbies.map((item)=>item+'!');
 console.log(newHobbies);
-
+console.log("adding new commit");
 // const newHobbies2=hobbies.map((item)=>({text:item}));
 // console.log(newHobbies2);
 
